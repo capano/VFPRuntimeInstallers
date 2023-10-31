@@ -11,7 +11,7 @@ Just run the installer, and then any PC starting from Win98 and newer is ready t
 
 Since those installers have been built with the WISE Installbuilder, the source code may only serve as a reference of what components need to be included. We hope to rebuild them using a modern freeware install-builder, but in the meantime those dog-old installers still do their job.
 
-## Instructions
+## Instruções
 
 These installers include the all the latest hotfixes and security updates.
 
